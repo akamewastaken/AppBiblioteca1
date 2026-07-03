@@ -1,50 +1,95 @@
-# Welcome to your Expo app 👋
+# 📚 AppBiblioteca1
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Aplicativo mobile desenvolvido em **React Native** como projeto do curso **Técnico em Informática para Internet** da ETEC Sylvio de Mattos Carvalho.
 
-## Get started
+O objetivo do projeto é oferecer uma interface simples e intuitiva para gerenciamento e consulta de livros, colocando em prática conceitos de desenvolvimento mobile, componentes reutilizáveis e navegação entre telas.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 🚀 Tecnologias Utilizadas
 
-2. Start the app
+- React Native
+- JavaScript
+- Expo
+- React Navigation
+- Git
+- GitHub
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 📱 Funcionalidades
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- 📖 Listagem de livros
+- 🔍 Pesquisa de livros
+- 📄 Visualização de detalhes
+- 🧩 Interface organizada e responsiva
+- 📱 Navegação entre telas
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 📂 Estrutura do Projeto
 
-When you're ready, run:
-
-```bash
-npm run reset-project
+```text
+AppBiblioteca1/
+├── assets/
+├── components/
+├── screens/
+├── navigation/
+├── services/
+├── App.js
+└── package.json
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## ▶️ Como executar o projeto
 
-To learn more about developing your project with Expo, look at the following resources:
+1. Clone o repositório:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```bash
+git clone https://github.com/akamewastaken/AppBiblioteca1.git
+```
 
-## Join the community
+2. Acesse a pasta:
 
-Join our community of developers creating universal apps.
+```bash
+cd AppBiblioteca1
+```
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+3. Instale as dependências:
+
+```bash
+npm install
+```
+
+4. Inicie o projeto:
+
+```bash
+npx expo start
+```
+
+---
+
+## 🎯 Objetivos de Aprendizado
+
+Durante o desenvolvimento deste projeto foram praticados conceitos como:
+
+- Desenvolvimento Mobile com React Native
+- Componentização
+- Navegação entre telas
+- Organização de código
+- Consumo de componentes reutilizáveis
+- Versionamento com Git e GitHub
+
+---
+
+## 👨‍💻 Desenvolvedor
+
+**Thiago Munis**
+
+- 💼 LinkedIn: https://www.linkedin.com/in/thiago-munis-51b0a03a3
+- 💻 GitHub: https://github.com/akamewastaken
+
+---
+
+⭐ Este projeto foi desenvolvido para fins de estudo e aperfeiçoamento das habilidades em desenvolvimento mobile.
